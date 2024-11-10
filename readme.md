@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Abhinav
 
-## Facts about me
+## About me
 
 - .✨ I'm interested in web development
 - .🎨 Skilled in UI designing
