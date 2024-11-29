@@ -5,8 +5,8 @@
 - ✨ I'm interested in web development
 - 🎨 Skilled in UI designing
 - ⚒️ Working on some major projects
-- ✅ fun fact I dont have common sense
-- 📫 reach me on amctitan123@gmail.com
+- ✅ fun fact : I dont have common sense
+- 📫 reach me at amctitan123@gmail.com
 
 ### ⚒️ Working with
 
