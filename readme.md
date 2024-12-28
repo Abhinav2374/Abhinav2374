@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhinav2374](https://github.com/Abhinav2374)
 
-- 📫 How to reach me **amctitan123@gmail.com**
+- 📫 How to reach me **2374abhinav@gmail.com**
 
 - ⚡ Fun fact **I love reading books**
 
