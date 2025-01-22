@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">I am a developer</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **some practice projects**
 
 - 🌱 I’m currently learning **web development**
 
